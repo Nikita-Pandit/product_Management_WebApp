@@ -4,13 +4,6 @@ A full-stack web application that allows users to register, log in, and manage a
 
 Users can filter, search, upload product images, and experience role-based access control (Admin/User). Designed with clean UI using **Tailwind CSS**.
 
----
-
-## 🔗 Live Demo
-> [Add your deployed app link here]
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend:**
