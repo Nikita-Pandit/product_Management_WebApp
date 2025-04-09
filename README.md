@@ -50,10 +50,5 @@ Users can filter, search, upload product images, and experience role-based acces
 - ✅ Sorting (price, rating)
 - ✅ Role-based Access Control (Admin vs User)
 
----
 
-## 🚀 Getting Started
-
-### 📁 Clone the Repository
-```bash
 
